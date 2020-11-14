@@ -1,0 +1,11 @@
+{
+    "name": "greeter-bot",
+    "version": "0.0.1",
+    "description": "Bot pour l'association Well's Records",
+    "main": "bot.js",
+    "author": "Nicolas Gretten",
+    "dependencies": {
+        "discord.js": "^12.4.1",
+        "nodemon": "^2.0.6"
+    }
+}
