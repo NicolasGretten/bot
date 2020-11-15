@@ -1,0 +1,21 @@
+.black-box{
+    /* background-image: url('https://dummyimage.com/250x250/bf46bf/bf46bf');
+    background-size: cover;
+    background-position: center; */
+    background-color:#bf46bf ;
+    width: 200px;
+    height: 200px;
+}
+
+.green-box{
+    /* background-image: url('https://dummyimage.com/250x250/30bf81/30bf81');
+    background-size: cover;
+    background-position: center; */
+    background-color: #30bf81;
+    width: 200px;
+    height: 200px;
+}
+
+.p-5{
+    padding: 5rem;
+}
